@@ -1,0 +1,15 @@
+{ 
+    "display_override": ["window-controls-overlay"], 
+    "protocol_handlers": [{"protocol":"mailto","url":"/newEmail?to=%s"}], 
+    "name": "IWST - Isamgeo Wellbore Stability Tool",
+    "short_name": "IWST",
+    "start_url": "/login",
+    "display": "browser",
+    "description": "Isamgeo Wellbore Stability Tool",
+    "lang": "En",
+    "dir": "auto",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "orientation": "any",
+    "prefer_related_applications": false
+}

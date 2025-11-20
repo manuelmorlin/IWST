@@ -1,0 +1,10 @@
+include src/iwst/assets/*
+include src/iwst/templates/*
+include src/iwst/static/img/*
+include src/iwst/static/css/*
+include src/iwst/static/*
+include src/iwst/assets/css/*
+include src/iwst/assets/js/*
+include src/iwst/assets/static/*
+include src/iwst/routes/userguide/*
+include src/iwst/routes/home/data/*

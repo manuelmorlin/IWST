@@ -1,0 +1,15 @@
+DEFAULT_VALUES = {
+    "pore-pressure-input": 32.0,
+    "mud-pressure-input": 32.0,
+    "max-principal-stress-input": 70.0,
+    "intermediate-principal-stress-input": 67.0,
+    "min-principal-stress-input": 45.0,
+    "poisson-ratio-input": 0.15,
+    "azimuth-input": 90.0,
+    "inclination-angle-input": 85.0,
+    "friction-coefficient-input": 1.0,
+    "alpha-angle-input": 0.0,
+    "beta-angle-input": 90.0,
+    "gamma-angle-input": 0.0,
+    "tensile-strength-input": 0.0,
+}
