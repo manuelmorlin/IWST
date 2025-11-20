@@ -303,10 +303,10 @@ Python >= 3.12
 
 ## 👥 Authors
 
-**Author:** Stefano Gianbattista Fanizzi  
-**Email:** stefano.fanizzi@isamgeo.com  
+**Author:** Manuel Morlin  
+**Email:** manuel.morlin@isamgeo.com  
 **Organization:** Isamgeo  
-**Maintainer:** Manuel Morlin
+**Role:** Developer
 
 ---
 
@@ -343,5 +343,5 @@ Proprietary - © Isamgeo. All rights reserved.
 ## 📧 Support
 
 For technical support or feature requests, contact:
-- Email: stefano.fanizzi@isamgeo.com
+- Email: manuel.morlin@isamgeo.com
 - Use the integrated support system in the application (Help menu → Contact Support)
